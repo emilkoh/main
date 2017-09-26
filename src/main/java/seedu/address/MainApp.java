@@ -36,7 +36,7 @@ import seedu.address.ui.Ui;
 import seedu.address.ui.UiManager;
 
 
-//Just checking whether Travis CI works. Again
+//Just checking whether Travis CI works.
 
 
 /**
